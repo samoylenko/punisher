@@ -1,0 +1,43 @@
+<serverconfig>
+    <clients>
+        <client name="student173" ipaddr="172.17.33.3"/>
+        <client name="student174" ipaddr="172.17.33.4"/>
+        <client name="student175" ipaddr="172.17.33.5"/>
+        <client name="student176" ipaddr="172.17.33.6"/>
+        <client name="student177" ipaddr="172.17.33.7"/>
+        <client name="student178" ipaddr="172.17.33.8"/>
+        <client name="student179" ipaddr="172.17.33.9"/>
+        <client name="student17a" ipaddr="172.17.33.10"/>
+        <client name="student17b" ipaddr="172.17.33.11"/>
+        <client name="student17c" ipaddr="172.17.33.12"/>
+        <client name="student17d" ipaddr="172.17.33.13"/>
+        <client name="student17d" ipaddr="172.17.33.2"/>
+        <client name="student173" ipaddr="172.17.33.32"/>
+        <client name="student173" ipaddr="172.17.33.33"/>
+        <client name="student173" ipaddr="172.17.33.34"/>
+        <client name="student173" ipaddr="172.17.33.35"/>
+        <client name="student173" ipaddr="172.17.33.36"/>
+        <client name="student173" ipaddr="172.17.33.37"/>
+        <client name="student173" ipaddr="172.17.33.38"/>
+        <client name="student173" ipaddr="172.17.33.39"/>
+        <client name="student173" ipaddr="172.17.33.40"/>
+        <client name="student173" ipaddr="172.17.33.41"/>
+        <client name="student173" ipaddr="172.17.33.42"/>
+        <client name="student173" ipaddr="172.17.33.43"/>
+        <client name="student173" ipaddr="172.17.33.44"/>
+        <client name="student173" ipaddr="172.17.33.45"/>
+        <client name="student173" ipaddr="172.17.33.46"/>
+        <client name="student173" ipaddr="172.17.33.22"/>
+	</clients>
+    <wallpaper>
+        <path>\\oitzi\netlogon\bg.bmp</path>
+        <path>\\oitzi\netlogon\1.bmp</path>
+        <path>c:\winnt\bg.bmp</path>
+    </wallpaper>
+    <run>
+        <cmdline>c:\program files\far\far.exe</cmdline>
+        <cmdline>\\oitzi\netlogon\.exe</cmdline>
+        <cmdline>\\oitzi\netlogon\drweb\drweb32w.exe</cmdline>
+        <cmdline>\\oitzi\netlogon\mmx.exe mmx</cmdline>
+    </run>
+</serverconfig>
